@@ -1,1 +1,1 @@
-This is spindy
+BookBot is my first project!
